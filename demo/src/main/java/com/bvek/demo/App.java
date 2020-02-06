@@ -5,7 +5,7 @@ package com.bvek.demo;
  */
 public class App {
    
-    private int x,y;
+    //private int x,y;
 
    
     public int  product(int x,int y)
